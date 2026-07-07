@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/pipeworx-io-mcp-data-bloomington-badge.png)](https://mseep.ai/app/pipeworx-io-mcp-data-bloomington)
+
 # mcp-data-bloomington
 
 Bloomington Open Data (data.bloomington.in.gov) Socrata MCP.
