@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-data-bloomington",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Bloomington Open Data (data.bloomington.in.gov) Socrata MCP.",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-175ac4a18990a5f3a9e3d52fb05e67313e1b8d50426bac63f402bf7a7b09842d",
-    "sourceCommit": "01241619b78233fd55d0e3612331499a63f03ae7"
+    "sourceHash": "v1-382af144b7d2aae8e30c8691b14ac5170281826dc6a591cd7f1b6e74924acd91",
+    "sourceCommit": "ba9dd6df5992aeb16ef2425ee86d1752c34ca636"
   }
 }
